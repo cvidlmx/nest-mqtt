@@ -1,13 +1,13 @@
 {
-  "name": "@fetaoily/nest-mqtt",
+  "name": "@cvidlmx/nest-mqtt",
   "version": "1.0.5",
   "description": "A MQTT module for Nest.js",
-  "author": "microud,fetaoily",
+  "author": "microud,fetaoily,cvidlmx",
   "license": "MIT",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "repository": {
-    "url": "https://github.com/fetaoily/nest-mqtt"
+    "url": "https://github.com/cvidlmx/nest-mqtt"
   },
   "keywords": [
     "nest-mqtt",
